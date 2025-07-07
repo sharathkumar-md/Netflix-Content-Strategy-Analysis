@@ -1,4 +1,4 @@
-# Netflix Content Strategy Analysis (2023)
+# Netflix Content Strategy Analysis
 
 This project dives deep into Netflix's content release patterns in 2023 to understand how content type, language, release timing (monthly, weekly, seasonal), and proximity to holidays influence audience engagement measured through total viewership hours. By analyzing trends using Python, we uncover actionable insights into what makes content successful on a global streaming platform like Netflix.
 
